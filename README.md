@@ -1,4 +1,4 @@
-# dsc-project-phase-1
+# Microsoft new studio analysis
 ![Picture1](https://github.com/magdaondimu/dsc-project-phase-1/assets/151352429/b1392720-9e1a-4e3a-98da-eeb1d2c33f97)
 # Microsoft New Movie Studio
 Author: Magdalene Ondimu
